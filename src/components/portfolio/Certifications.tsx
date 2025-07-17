@@ -161,13 +161,13 @@ const CertificationSection = () => {
                 </div>
 
                 <a
-                    href="https://drive.google.com/file/d/1DdHdfheLCAt_1n1RAdt9WWEh48X-vPte/view?usp=sharing"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block transition-transform duration-300 hover:scale-105"
                 >
                     <img
-                        src="/Internship-certificate.jpeg"
+                        src="/RahulKumarResume.pdf"
                         alt="Internship Certificate"
                         className="rounded-lg shadow-lg border border-border max-w-full"
                     />
