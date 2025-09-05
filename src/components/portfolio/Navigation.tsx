@@ -86,7 +86,7 @@ const Navigation = () => {
                             <a href="https://www.linkedin.com/in/rahul-singh-b57521229/" target="_blank" className="hover:text-primary text-muted-foreground">
                                 <Linkedin className="w-5 h-5" />
                             </a>
-                            <a href="mailto:milantetar@gmail.com" className="hover:text-primary text-muted-foreground">
+                            <a href="mailto:rajrahul04062004@gmail.com" className="hover:text-primary text-muted-foreground">
                                 <Mail className="w-5 h-5" />
                             </a>
                         </div>
