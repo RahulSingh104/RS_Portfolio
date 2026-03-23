@@ -20,7 +20,7 @@ I enjoy solving real-world problems through technology and have worked on projec
 * 📄 Dynamic Document Generation
 * 📱 Mobile App Development
 
-Currently, I am actively seeking **Full-Time Opportunities** as a **Software Developer / Full Stack Developer** and available for **Immediate Joining**.
+Currently, I am actively seeking **Full-Time Opportunities** as a **Software Developer / Full Stack Developer / Frontend Developer** and available for **Immediate Joining**.
 
 ---
 
